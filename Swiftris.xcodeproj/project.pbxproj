@@ -113,12 +113,12 @@
 				9C46EDF01BC7B54F009443F9 /* AppDelegate.swift */,
 				9C46EDF41BC7B54F009443F9 /* GameScene.swift */,
 				9C46EDF61BC7B54F009443F9 /* GameViewController.swift */,
+				9C46EE3C1BC7CE28009443F9 /* Swiftris.swift */,
 				9C46EDF81BC7B54F009443F9 /* Main.storyboard */,
 				9C46EDFB1BC7B54F009443F9 /* Assets.xcassets */,
 				9C46EDFD1BC7B54F009443F9 /* LaunchScreen.storyboard */,
 				9C46EE001BC7B54F009443F9 /* Info.plist */,
 				9C46EE271BC7BC6D009443F9 /* Array2D.swift */,
-				9C46EE3C1BC7CE28009443F9 /* Swiftris.swift */,
 			);
 			path = Swiftris;
 			sourceTree = "<group>";
@@ -425,6 +425,7 @@
 				9C46EE051BC7B54F009443F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
